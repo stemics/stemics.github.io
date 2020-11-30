@@ -31,3 +31,6 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 # STEMICS Community
 
 For everyone.
+
+* [Documentation](https://stemics.github.io/documentation.github.io/)
+* [collector-swv](https://stemics.github.io/collector-swv.github.io/)
